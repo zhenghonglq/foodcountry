@@ -1,0 +1,82 @@
+#main{
+	background: #000;
+}
+.content{
+	margin-top: 44px;
+}
+.panel{
+	background: #000!important;
+	margin-bottom: 0!important;
+	border-radius: 0!important;
+}
+.box-foot{
+	overflow: hidden;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.box-foot .foot-tit{
+	font-size: 18px;
+	color: rgb(0, 205, 0);
+}
+.meishixiangban{
+	padding: 0;
+	overflow: hidden;
+}
+.meishixiangban li{
+	width: 50%;
+	float: left;
+	padding: 5px;
+	list-style: none;
+}
+.meishixiangban li img{
+	width: 100%;
+}
+.meishiwuyu{
+	padding: 5px;
+}
+.meishiwuyu img{
+	width: 100%;
+}
+.meishiwuyu p{
+	text-align: left;
+	padding: 15px;
+	border-top: 1px dashed #999;
+	margin-top: 15px;
+}
+.meishiwuyu p a{
+	font-size: 16px;
+	color: #999;
+	text-align: left;
+}
+.meishiwuyu p a:hover{
+	text-decoration: none;
+}
+.meishiwuyu p span{
+	display: block;
+	font-size: 18px;
+	color: #fff;
+	padding: 10px 0;
+}
+.meishidaren{
+	overflow: hidden;
+	padding: 0;
+}
+.meishidaren li{
+	width: 25%;
+	float: left;
+	padding: 5px;
+	list-style: none;
+}
+.meishidaren li img{
+	width: 100%;
+}
+.meishidaren li span{
+	display: block;
+	padding: 10px 5px;
+	font-size: 14px;
+	color: #999;
+	text-align: center;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
